@@ -1,0 +1,15 @@
+{
+  "name": "chat-demo",
+  "version": "1.0.0",
+  "description": "A demo chat application using socket.io",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
